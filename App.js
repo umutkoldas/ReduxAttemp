@@ -19,6 +19,7 @@ const App = () => {
 const styles = StyleSheet.create({
   main: {
     flex: 1,
+    backgroundColor: 'white',
   },
 });
 export default App;
